@@ -50,6 +50,7 @@
         <option></option>
         <option>{"🏢"}</option>
         <option>{"🏠"}</option>
+        <option>{"🤖"}</option>
     </select>
 </div>
 
