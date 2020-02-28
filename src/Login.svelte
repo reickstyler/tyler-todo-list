@@ -25,8 +25,8 @@
     }
     .position {
         position: absolute;
-        top: 0;
-        right: 0;
+        top: 30px;
+        right: 9px;
         margin-right: 20px;
     }
 
